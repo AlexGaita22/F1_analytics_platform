@@ -71,7 +71,7 @@ If this doesn't work for you use venv and then insall requirements.txt and start
 
 ## 📧 Contact
 
-Questions or want to collaborate? Reach out at: **your.email@example.com**
+Questions or want to collaborate? Reach out at: **alexandrugaita2016@gmail.com**
 
 ---
 
